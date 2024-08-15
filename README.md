@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+release-planning
+# Release Planning
 
 Based on "ABC" at https://www.abc.com/
 
